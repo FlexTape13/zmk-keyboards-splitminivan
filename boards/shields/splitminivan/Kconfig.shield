@@ -1,0 +1,5 @@
+config SHIELD_SPLITMINIVAN_LEFT
+    def_bool $(shields_list_contains,splitminivan_left)
+
+config SHIELD_SPLITMINIVAN_RIGHT
+    def_bool $(shields_list_contains,splitminivan_right)
