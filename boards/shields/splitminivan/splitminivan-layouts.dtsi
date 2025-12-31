@@ -3,6 +3,7 @@
 
 
 #include <physical_layouts.dtsi>
+#include <splitminivan.dtsi>
 
 / {
     physical_layout_0: physical_layout_0 {
