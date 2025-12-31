@@ -8,7 +8,7 @@
 
 
 &physical_layout_0 {
-    transform = <&default_transform;
+    transform = <&default_transform>;
 };
 
 / {
