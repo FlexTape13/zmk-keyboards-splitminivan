@@ -23,3 +23,9 @@ endif # SHIELD_SPLITMINIVAN_LEFT || SHIELD_SPLITMINIVAN_RIGHT
 
 config ZMK_STUDIO
     default y
+
+config ZMK_SLEEP
+    default y
+
+config ZMK_IDLE_SLEEP_TIMEOUT
+    default 900000
